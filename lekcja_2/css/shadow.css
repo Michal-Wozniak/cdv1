@@ -1,0 +1,30 @@
+li{
+    display: inline;
+    margin: 2rem;
+}
+li.hidden_v{
+    visibility: hidden;
+}
+li.hidden{
+    display: none;
+}
+li:hover{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+p.one{
+    -webkit-box-shadow: -5px -5px #666;
+    -moz-box-shadow: -5px -5px #666;
+}
+
+p.two{
+    -webkit-box-shadow: -5px -5px 15px #666;
+}
+
+p.three{
+    -webkit-box-shadow: 0 0 10px #666;
+}
+
+p.four{
+    -webkit-box-shadow: 0 0 10px #666;
+}
