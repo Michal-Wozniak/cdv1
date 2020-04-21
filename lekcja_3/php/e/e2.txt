@@ -1,0 +1,4 @@
+Napisz program który pozwoli cenzurować zdanie podane przez uzytkownika
+Formularz do wprowadzanai słow,
+niewłaściwe: czarny biały
+zamiana: _#***#_
